@@ -38,7 +38,7 @@ Se o saldo for suficiente, a aposta é registrada.
 
 - Simulação da Corrida
 
-Ao entrar no arquivo, vá ao terminal e digite "python corrida.py" para iniciar a corrida.
+Ao entrar no arquivo, vá ao terminal entre na pasta Corrida com "cd Corrida" e digite "python corrida.py" para iniciar a corrida.
 
 A corrida é iniciada com os seguintes componentes:
 Racers: Corredores com suas respectivas velocidades e níveis de motivação.
