@@ -27,6 +27,7 @@ Diagrama de Blocos Básico: Sistema de Apostas de Corrida
 - Entrada do Usuário
 
 O usuário insere:
+Injetar dinheiro para aposta
 Corredor escolhido
 Valor da aposta
 Validação da Aposta
@@ -67,6 +68,7 @@ O sistema exibe o saldo atualizado do usuário.
 O usuário pode escolher entre:
 Fazer uma nova aposta
 Verificar o saldo
+Sacar seus ganhos ou valores em sua conta
 
 - Encerrar o sistema
 
